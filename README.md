@@ -2,23 +2,23 @@
 
 # 👋 Hello! I'm Nurul Fatimah Az-Zaharah  
 
-🎓 Petroleum Engineer | 📊 Data & Energy Analyst | 🌱 Sustainability Enthusiast 
+🎓 Petroleum Engineer
+📊 Data & Energy Analyst
+🌱 Sustainability Enthusiast 
 📍 Based in Cyberjaya, Malaysia
 
-I’m a Petroleum Engineering graduate, and I am extremely passionate in utilizing data for climate-smart energy decisions, transparency in government programs, and innovation in oil & gas.
+Data-driven energy professional with a Petroleum Engineering background and over five years of experience across government, academia, and research. Extremely passionate in utilizing data for climate-smart energy decisions, transparency in government programs, and innovation in oil & gas.
 
 ---
 
-## 🔧 Tools I Use
-- **Data & Visualization**: ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white), ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-, ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+## 🔧 Tools & Technologies
+- **Data & Visualization**: Excel📊, Tableau📈, DataPetrol🧾, Google Sheets📉
 
-- **Programming**: ![SQL](https://img.shields.io/badge/SQL-FF6C37?style=for-the-badge&logo=sqlite&logoColor=white)
-, ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
- 
-- **Modeling**: Petrel🛢️ (Geological Modeling), Roxar Tempest🌀 (Reservoir Simulation), ![ANSYS](https://img.shields.io/badge/ANSYS-FFB71B?style=for-the-badge&logo=ansys&logoColor=black)(CFD)
+- **Programming**: SQL📝, R💻
+  
+- **Modeling**: Petrel🛢️ (Geological Modeling), Roxar Tempest🌀 (Reservoir Simulation), ANSYS⛓ (Computational Fluid Dynamics)
 
-- **Design & Video**: ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white), InShot🎥 (Video Editing)
+- **Design & Video**: Canva🖌, InShot🎥 (Video Editing)
 
 ---
 
