@@ -1,3 +1,5 @@
+<img src="NFAZ Banner.png" alt="GitHub Banner" style="width:100%;">
+
 # 👋 Hello! I'm Nurul Fatimah Az-Zaharah  
 
 🎓 Petroleum Engineer | 📊 Data & Energy Analyst | 🌱 Sustainability Enthusiast 
