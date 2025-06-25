@@ -1,4 +1,4 @@
-<img src="NFAZ Banner.png" alt="GitHub Banner" style="width:100%;">
+<img src="visuals/NFAZ GitHub Banner.png" alt="GitHub Banner" style="width:100%;">
 
 # 👋 Hello! I'm Nurul Fatimah Az-Zaharah  
 
