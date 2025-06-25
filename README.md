@@ -23,9 +23,8 @@ Data-driven energy professional with a Petroleum Engineering background and over
 ---
 
 ## 📂 Featured Projects
-- 📈 **Google Capstone** – Bellabeat Fitness Tracker Analysis (Coming soon)
-- 🛢️ **Diesel Subsidy Dashboard** – Operational visuals for regulatory monitoring
-- 🌱 **EOR + CO₂ Storage Research** – Geological storage modeling
-- ⚡ **Blockchain x Oil & Gas** – Exploration of future systems
+- 📈 **Google Data Analytics Professional Certificate Capstone Project** – [Bellabeat Fitness Tracker Analysis](https://github.com/anne-aris/bellabeat-casestudy)
+- 🌱 **EOR + CO₂ Storage Research** – [Geological storage modeling](https://eprints.utm.my/86836/)
+- 🛢️ **Diesel Subsidy Dashboard** [SKDS Website](https://www.kpdn.gov.my/en/submenu/lets-do-business-submenu/petroleum-gas-industry/fleet-card)
 
 Let’s connect on [LinkedIn](https://www.linkedin.com/in/nurul-fatimah-az-zaharah-mohd-aris-79485213a/) ✨
